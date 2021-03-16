@@ -26,7 +26,7 @@ class Solution:
                 tmp = sum(nums[i:j])
                 if subsum < tmp:
                     subsum = tmp
-        return subsum
+        retu
 
 # Kadane's Algo
 class Solution:
