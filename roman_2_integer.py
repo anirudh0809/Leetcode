@@ -11,6 +11,4 @@ class Solution:
 				answer -= 2 * prev
 			prev = vals_dict.get(num)
 		
-    return answer
-
-    
+    return answer  
